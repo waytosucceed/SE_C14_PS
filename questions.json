@@ -1,0 +1,234 @@
+{
+  "heading": "Multiplication and Division with decimals",
+  "topics": [
+    {
+      "heading": "Multiplication and Division with decimals",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "After converting the decimal 0.125 into a fraction and simplifying it, what is the value of the denominator?",
+          "options": [
+            { "text": "8" },
+            { "text": "25" },
+            { "text": "50" },
+            { "text": "100" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "What decimal does the fraction <sup>5</sup>&frasl;<sub>16</sub> convert to?",
+          "options": [
+            { "text": "0.312" },
+            { "text": "0.3125" },
+            { "text": "0.315" },
+            { "text": "0.32" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "Multiply 9 by 0.7.",
+          "options": [
+            { "text": "6.4" },
+            { "text": "6.2" },
+            { "text": "6.1" },
+            { "text": "6.3" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 4,
+          "question": "Multiply 3.2 by 0.04.",
+          "options": [
+            { "text": "1.28" },
+            { "text": "0.0128" },
+            { "text": "0.128" },
+            { "text": "0.00128" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "If you multiply 2.5 by 0.008, what is the product?",
+          "options": [
+            { "text": "0.021" },
+            { "text": "0.2" },
+            { "text": "0.002" },
+            { "text": "0.02" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "question": "What is the result when you multiply 0.45 by 0.1?",
+          "options": [
+            { "text": "0.045" },
+            { "text": "0.45" },
+            { "text": "0.0045" },
+            { "text": "4.5" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "What is the result of dividing 0.72 by 0.12?",
+          "options": [
+            { "text": "0.6" },
+            { "text": "6" },
+            { "text": "60" },
+            { "text": "6.0" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "Divide 0.0036 by 0.06.",
+          "options": [
+            { "text": "0.006" },
+            { "text": "0.6" },
+            { "text": "60" },
+            { "text": "0.06" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 9,
+          "question": "What is the result of dividing 46.20 by 6?",
+          "options": [
+            { "text": "7.20" },
+            { "text": "7.70" },
+            { "text": "7.50" },
+            { "text": "7.03" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 10,
+          "question": "What is the result of dividing 9.9 by 0.22?",
+          "options": [
+            { "text": "0.45" },
+            { "text": "4.5" },
+            { "text": "450" },
+            { "text": "45" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 11,
+          "question": "Multiply 0.35 by 0.4.",
+          "options": [
+            { "text": "0.014" },
+            { "text": "0.14" },
+            { "text": "1.4" },
+            { "text": "0.0014" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "Divide 0.072 by 0.09.",
+          "options": [
+            { "text": "0.08" },
+            { "text": "0.8" },
+            { "text": "8" },
+            { "text": "0.008" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "What is the product of 0.125 and 8?",
+          "options": [
+            { "text": "1.01" },
+            { "text": "0.1" },
+            { "text": "10" },
+            { "text": "1" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 14,
+          "question": "A bottle of juice contains 2 liters. If a serving is 0.4 liters, how many servings are in the bottle?",
+          "options": [
+            { "text": "6 servings" },
+            { "text": "6.06 servings" },
+            { "text": "5 servings" },
+            { "text": "6.1 servings" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "A recipe requires 0.25 cups of sugar. If a baker makes the recipe four times, how much sugar is needed in total?",
+          "options": [
+            { "text": "1 cup" },
+            { "text": "1.25 cups" },
+            { "text": "0.75 cups" },
+            { "text": "0.5 cups" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 16,
+          "question": "A carpenter cuts a piece of wood that measures 4.20 meters into sections that are 0.30 meters long. How many sections can he cut?",
+          "options": [
+            { "text": "12.64" },
+            { "text": "14" },
+            { "text": "13.1" },
+            { "text": "18" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "A printer uses 0.0008 liters of ink per page for high-quality prints. How much ink is used to print a 50-page report?",
+          "options": [
+            { "text": "0.04 liters" },
+            { "text": "0.3 liters" },
+            { "text": "0.5 liters" },
+            { "text": "0.45 liters" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "A baker has 2.5 kilograms of flour and uses 0.25 kilograms per batch of bread. How many batches can he make?",
+          "options": [
+            { "text": "8 batches" },
+            { "text": "10 batches" },
+            { "text": "12 batches" },
+            { "text": "15 batches" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "A clinic uses 0.75 liters of sanitizer each day. If they have 15 liters, how many days will it last?",
+          "options": [
+            { "text": "18 days" },
+            { "text": "20 days" },
+            { "text": "25 days" },
+            { "text": "30 days" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "What is the area of a square whose side measures 3.26 cm?<br>Note:<br>Area of square = side × side",
+          "options": [
+            { "text": "10.6276 sq cm" },
+            { "text": "11.6276 sq cm" },
+            { "text": "10.6226 sq cm" },
+            { "text": "10.6227 sq cm" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+      
+      
+    }
+  ]
+}
